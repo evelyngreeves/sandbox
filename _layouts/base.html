@@ -3,7 +3,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    {% include bioschemas.html %}
+    <script type="application/ld+json">
+        {{ page.bioschemas | jsonify }}
+    </script>
   </head>
   <body>
      {{ content }}

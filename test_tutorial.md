@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: base
 bioschemas:
   "@context": https://schema.org/
   "@type": LearningResource

@@ -1,4 +1,3 @@
-test_tutorial.md
 ---
 layout: tutorial
 bioschemas:
